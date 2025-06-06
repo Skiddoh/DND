@@ -4,11 +4,11 @@
 
 | Character | Player |
 | --- | --- |
-| Ragnarok | Moritz |
+| Ragnarok Kupferschwinge | Moritz |
 | Yewan Sternensucher | Dominik |
 | Dwalin Bergwächter | Jonas |
 | Tauriel | Verena |
-| Portia | Alice |
+| Portia Strammgurt | Alice |
 
 ## Not Alive
 
