@@ -10,6 +10,12 @@
 | Tauriel | Verena |
 | Portia Strammgurt | Alice |
 
+## Honorable Mentions
+
+| Character |
+| --- |
+| Baumel der Goblin |
+
 ## Not Alive
 
 | Character | Player |
