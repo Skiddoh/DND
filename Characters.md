@@ -1,6 +1,8 @@
-# Player Characters
+# Characters
 
-## Alive
+## Player Characters
+
+### Alive
 
 | Character | Player |
 | --- | --- |
@@ -10,14 +12,16 @@
 | Tauriel | Verena |
 | Portia Strammgurt | Alice |
 
-## Honorable Mentions
-
-| Character |
-| --- |
-| Baumel der Goblin |
-
-## Not Alive
+### Not Alive
 
 | Character | Player |
 | --- | --- |
 | Kaeliah Mondschatten | Sophia |
+
+## Non-Player Characters
+
+### Honorable Mentions
+
+| Character |
+| --- |
+| Baumel der Goblin |
